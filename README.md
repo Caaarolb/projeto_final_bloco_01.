@@ -50,7 +50,7 @@
     ts-node IniciarMenu.ts
     ```
 
-<p align="center">🌟 **Jotinha** 🌟</p>
+<p align="center">🌟 Jotinha 🌟</p>
 
 <p align="center">
   Projeto desenvolvido por <strong>Jeisa Boaventura</strong> 🌟
