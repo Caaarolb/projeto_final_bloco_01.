@@ -67,7 +67,7 @@ export class Menu {
           const produtoAtualizar: Produto | undefined = carrinho.buscarProdutoPorId(idAtualizar);
           if (produtoAtualizar) {
             const novoNome = readlineSync.question("Novo Nome do Produto: ");
-            const novoPreco = readlineSync.questionFloat("Novo Preço do Produto: ");
+            const novoPreco = readlineSync.questionFloat("Novo Preco do Produto: ");
             produtoAtualizar.nome = novoNome;
             produtoAtualizar.preco = novoPreco;
             console.log("Produto atualizado com sucesso!");
