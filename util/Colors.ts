@@ -1,5 +1,3 @@
-//Colors.ts
- 
 export const colors = {
     reset: "\x1b[0m",  
     fg: {
